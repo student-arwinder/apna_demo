@@ -1,3 +1,3 @@
 # apna_demo
-simple projects
+simple projects.
 Author ~ Arwinder Singh
