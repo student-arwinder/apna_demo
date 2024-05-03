@@ -1,3 +1,3 @@
 # apna_demo
-simple projects.
+This is my first project.
 Author ~ Arwinder Singh
